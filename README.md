@@ -1,6 +1,7 @@
 # Tawakkalna User Analytics Dashboard (2023)
 
 Course: Data Analysis and Design  
+Tool Used: Google Looker Studio
 
 ## Project Overview:
 The goal of this project is to use what I learned in the course to work with real data. I focused on analyzing the number of new users for the Tawakkalna platform in 2023. I cleaned the data, explored it, and then created a simple dashboard using Google Data Studio. This helped me understand the trends better and show the results in a clear and organized way.
