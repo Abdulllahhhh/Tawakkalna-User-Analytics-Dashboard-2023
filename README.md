@@ -26,5 +26,5 @@ This project analyzes monthly new user registrations on the Tawakkalna platform 
 - Trend analysis
 - Dashboard design and visualization
 
-## Dashboard Video
-[Watch the Dashboard Demo](Dashbored.mp4)
+## Dashboard Demo
+![Dashboard Demo](dashboard-demo.gif)
