@@ -22,8 +22,8 @@ This project analyzes monthly new user registrations on the Tawakkalna platform 
 - Summer months showed lower registration rates
 
 ## What I Learned
-- Data cleaning and preparation
 - Trend analysis
+- Data cleaning and preparation
 - Dashboard design and visualization
 
 ## Dashboard Demo
