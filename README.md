@@ -1,5 +1,7 @@
 # Tawakkalna User Analytics Dashboard (2023)
 
+Course: Data Analysis and Design  
+
 ## Project Overview
 This project analyzes monthly new user registrations on the Tawakkalna platform in 2023 using real Saudi open data. I cleaned and organized the dataset using Excel, then created a dashboard in Google Looker Studio to visualize trends and understand how user activity changed throughout the year.
 
@@ -18,6 +20,11 @@ This project analyzes monthly new user registrations on the Tawakkalna platform 
 - March recorded the highest number of new users
 - User activity was strongest in the first half of the year
 - Summer months showed lower registration rates
+
+## What I Learned
+- Data cleaning and preparation
+- Trend analysis
+- Dashboard design and visualization
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
