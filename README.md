@@ -1,7 +1,7 @@
 # Tawakkalna User Analytics Dashboard (2023)
 
 ## Project Overview
-This project presents an end-to-end data analytics workflow analyzing monthly new user registrations on the Tawakkalna platform in 2023. The project covers data collection, cleaning, exploratory analysis, and interactive dashboard visualization using real Saudi open government data.
+This project analyzes the monthly number of new users on the Tawakkalna platform in 2023 using real Saudi open government data. We collected the dataset, cleaned and organized it using Excel, then created an interactive dashboard in Google Looker Studio to visualize trends and understand user growth patterns throughout the year.
 
 ## Objectives
 - Identify peak and low activity periods
