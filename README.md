@@ -30,9 +30,9 @@ In this project, I started by collecting the data about new users of the Tawakka
 - Google Looker Studio (Data Visualization)
 
 ## Key Insights
+- Summer months showed lower registration rates
 - March recorded the highest number of new users
 - User activity was strongest in the first half of the year
-- Summer months showed lower registration rates
 
 ## What I Learned
 - Trend analysis
