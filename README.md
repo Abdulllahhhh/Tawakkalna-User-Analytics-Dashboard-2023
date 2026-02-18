@@ -1,2 +1,23 @@
-# Tawakkalna-User-Analytics-Dashboard-2023
-Analytics dashboard project analyzing monthly Tawakkalna user trends (2023) using Excel and Looker Studio.
+# Tawakkalna User Analytics Dashboard (2023)
+
+## Project Overview
+End-to-end data analytics project analyzing monthly new user registrations on the Tawakkalna platform during 2023 using real Saudi open government data.
+
+## Objectives
+- Identify peak and low activity periods
+- Analyze monthly user registration trends
+- Visualize insights through interactive dashboards
+- Apply real-world data cleaning and visualization techniques
+
+## Tools & Technologies
+- Saudi Open Data (SDAIA)
+- Microsoft Excel (Data Cleaning)
+- Google Looker Studio (Data Visualization)
+
+## Key Insights
+- March recorded the highest number of new users
+- User activity was strongest in the first half of the year
+- Summer months showed lower registration rates
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
