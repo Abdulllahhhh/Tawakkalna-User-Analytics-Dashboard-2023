@@ -12,6 +12,7 @@ Dataset Name: New Users for Tawakkalna Platform (Monthly)
 Description: This dataset shows the number of new users who registered on the Tawakkalna platform each month during the year 2023, It also includes the number of operations done on the platform monthly.
 
 Number of Instances (Rows): 13
+
 Number of Attributes (Columns): 4
 
 ## Description of methodology
